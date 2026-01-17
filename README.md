@@ -1,10 +1,8 @@
-# Holding Patterns — Relational Regulators
+# Holding Patterns 
 
 This repository documents a set of **three generative regulators**—**Regulator**, **Saturator**, and **Fader**—developed as part of *Holding Patterns*, a research-creation project exploring platonic friendship as **relational infrastructure**.
 
 Each regulator translates qualitative accounts of friendship into procedural form, focusing on **how care moves, accumulates, or dissipates over time**, rather than measuring or ranking intimacy.
-
-> 🎥 Short video documentation of each regulator is linked below (Vimeo).
 
 ---
 
