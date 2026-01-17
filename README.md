@@ -66,8 +66,8 @@ Instead, the regulators make **relational dynamics legible without making them c
 
 ## Visual Documentation (Vimeo)
 
-- Regulator (Reciprocity):  
-- Saturator (Intensity): 
+- Regulator (Reciprocity): https://vimeo.com/reviews/42328269-d41d-4b26-b224-f865484c4bbb/videos/1155287166 
+- Saturator (Intensity): https://vimeo.com/reviews/42328269-d41d-4b26-b224-f865484c4bbb/videos/1155287166
 - Fader (Drift / Afterlife):  https://vimeo.com/reviews/82d86b2f-6344-4c54-b43b-b90461c29f31/videos/1155287037
 
 ---
