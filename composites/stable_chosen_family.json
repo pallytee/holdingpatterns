@@ -1,0 +1,8 @@
+{
+  "name": "Stable chosen family (regulator)",
+  "inputs": {
+    "vulnerability": 0.60,
+    "reciprocity": 0.80
+  }
+}
+

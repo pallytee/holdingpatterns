@@ -1,0 +1,16 @@
+.env
+.env.local
+.DS_Store
+frames_*
+exports_*
+renders_*
+*.mov
+*.mp4
+*.png
+*.jpg
+
+# renders
+*.mp4
+*.mov
+frames_*
+exports_*
